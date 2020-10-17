@@ -21,8 +21,10 @@ const isMacBrowser = /Mac|iPod|iPhone|iPad/.test(navigator.platform);
 />
 <RelatedPosts
     slugs={[
+        'check-if-the-code-is-running-in-the-browser',
         'detect-if-the-caps-lock-is-on',
         'detect-internet-explorer-browser',
+        'detect-mobile-browsers',
     ]}
 />
 </>

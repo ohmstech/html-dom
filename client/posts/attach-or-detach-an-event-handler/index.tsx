@@ -36,7 +36,7 @@ const handler = function() {
     ...
 };
 
-// Atatch handler to the \`click\` event
+// Attach handler to the \`click\` event
 ele.addEventListener('click', handler);
 
 // Detach the handler from the \`click\` event
@@ -57,6 +57,7 @@ If you want the handler to be invoke once, then look at the [Create one time eve
         'communication-between-an-iframe-and-its-parent-window',
         'copy-highlighted-code-to-the-clipboard',
         'count-the-number-of-characters-of-a-textarea',
+        'create-a-custom-scrollbar',
         'create-a-range-slider',
         'create-an-image-comparison-slider',
         'create-resizable-split-views',
